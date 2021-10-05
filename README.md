@@ -1,5 +1,3 @@
-profile view
-
 ### 👋 Oi, Eu sou Patrick Vasconcellos
 
 Sou desenvolvedor Front-End, mas também tenho conhecimento em Back-End. Tenho um ano de experiencia em desenvolvimento web, e muitos anos de estudo em informática. Gosto sempre de estar me atualizando sobre as tecnologias. Atualmente ando estudando React, React Native, Javascript, NodeJS.

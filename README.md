@@ -32,7 +32,7 @@ Gosto de entender o problema antes de escolher a tecnologia. Busco soluções qu
 
 ### Formação
 
-- **Sistemas de Informação** — Estácio (2019–2022, conforme histórico acadêmico disponível; conclusão não declarada).
+- **Sistemas de Informação** — Estácio (2019–2022).
 - **Técnico em Informática** — ETERJ (2015–2018).
 
 ---
